@@ -1,0 +1,2 @@
+Compilar com -lm para conseguir setar o seed.
+Exemplo: gcc *.c -lm
